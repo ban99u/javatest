@@ -1,0 +1,16 @@
+
+public class Ex0520_01 {
+
+	public static void main(String[] args) {
+		Data d = new Data();
+		d.x=10;
+		System.out.println("main X :"+d.x);
+		change(d.x);
+		System.out.println("change main x :"+d.x);
+		//
+}
+	static void change(int x) {
+		x = 1000;
+		System.out.println("change x : "+x);
+	}
+}
