@@ -1,4 +1,4 @@
-package P0614_01;
+package P0614;
 
 public class Student {
 	static int count;

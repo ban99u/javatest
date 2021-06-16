@@ -1,4 +1,4 @@
-package P0614_01;
+package P0614;
 
 abstract public class player { //추상클래스
 
@@ -13,8 +13,7 @@ abstract public class player { //추상클래스
 	abstract void play(int point); //추상메소드
 	abstract void stop();
 	
-	abstract void work1();
-	abstract void work2();
+	
 	
 	void play() {
 		play(playPoint);

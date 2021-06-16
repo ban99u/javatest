@@ -1,4 +1,4 @@
-package P0614_01;
+package P0614;
 
 public class DvdPlayer extends player {
 
@@ -17,16 +17,6 @@ public class DvdPlayer extends player {
 
 	}
 
-	@Override
-	void work1() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	void work2() {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }
