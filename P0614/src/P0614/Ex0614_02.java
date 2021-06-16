@@ -1,7 +1,6 @@
-package P0614_01;
+package P0614;
 
-public class Ex_for {
-
+public class Ex0614_02 {
 	public static void main(String[] args) {
 		Stu s1 = new Stu();
 		String s = "한국직업전문학교";
@@ -27,5 +26,4 @@ public class Ex_for {
 //		}
 		
 	}
-
 }
