@@ -1,4 +1,4 @@
-package P0615_01;
+package P0615;
 
 public class Tank extends GroundUnit implements Repairable{
 	

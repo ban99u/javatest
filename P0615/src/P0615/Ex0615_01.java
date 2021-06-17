@@ -1,4 +1,4 @@
-package P0615_01;
+package P0615;
 
 public class Ex0615_01 {
 

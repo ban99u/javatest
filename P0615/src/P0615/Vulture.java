@@ -1,6 +1,6 @@
-package P0615_01;
+package P0615;
 
-public class Vulture extends GroundUnit {
+public class Vulture extends GroundUnit implements Repairable {
 
 	Vulture(){
 		super(80);
